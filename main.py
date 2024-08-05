@@ -10,7 +10,7 @@ print("Enter 4 for Division")
 print("Enter 5 for Modulus")
 c=int(input(""))
 
-if(c==2):
+if(c==1):
        print("The addition of two number is ",a+b)
 elif(c==2):
        print("The Subtraction of two number is ",a-b)
